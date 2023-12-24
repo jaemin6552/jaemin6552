@@ -1,9 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=%20JM's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=100&height=350)
 ---
-  
-
-[![JIHO's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaemin6552&include_all_commits=true&theme=merko&hide_border=true&count_private=true)](https://github.com/jaemin6552/github-readme-stats)
- 
 <br>
 
 📪Contact 
